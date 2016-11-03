@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:OpenGL_ES"
+      name = "OpenGL_ES">
+      <FileRef
+         location = "group:&#x521d;&#x8bc6;OpenGL_ES/&#x521d;&#x8bc6;OpenGL_ES.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
